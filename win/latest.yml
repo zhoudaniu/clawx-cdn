@@ -1,8 +1,8 @@
 version: 0.4.11
 files:
-  - url: clawx-0.4.11-win-x64.zip
+  - url: https://github.com/zhoudaniu/clawx-cdn/releases/download/v0.4.11/clawx-0.4.11-win-x64.zip
     sha512: placeholder
     size: 239118712
 path: clawx-0.4.11-win-x64.zip
 sha512: placeholder
-releaseDate: "2026-06-25"
+releaseDate: '2026-06-25'
