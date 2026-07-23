@@ -1,8 +1,8 @@
-version: 0.0.7
+version: 0.0.8
 files:
-  - url: https://github.com/zhoudaniu/clawx-cdn/releases/download/v0.0.7/clawx-0.0.7-win-x64.zip
+  - url: https://github.com/zhoudaniu/clawx-cdn/releases/download/v0.0.8/clawx-0.0.8-win-x64.zip
     sha512: placeholder
     size: 0
-path: clawx-0.0.7-win-x64.zip
+path: clawx-0.0.8-win-x64.zip
 sha512: placeholder
 releaseDate: '2026-07-23'
