@@ -1,7 +1,7 @@
 {
-  "version": "0.0.11",
-  "asarFile": "app-0.0.11.asar",
+  "version": "0.0.12",
+  "asarFile": "app-0.0.12.asar",
   "asarSize": 0,
-  "releaseDate": "2026-07-26",
-  "releaseNotes": "ClawX v0.0.11"
+  "releaseDate": "2026-08-01",
+  "releaseNotes": "ClawX v0.0.12"
 }
